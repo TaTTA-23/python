@@ -1,0 +1,63 @@
+Exercício 2.1
+Escreva expressões algébricas Python correspondentes aos seguintes comandos:  
+A soma dos 5 primeiros inteiros positivos.
+A idade média de Sara (idade 23), Mark (idade 19) e Fátima (idade 31).
+O número de vezes que 73 cabe em 403.
+O resto de quando 403 é dividido por 73.
+2 à 10ª potência.
+O valor absoluto da distância entre a altura de Sara (54 polegadas) e a
+altura de Mark (57 polegadas).
+O menor preço entre os seguintes preços: R$ 34,99, R$ 29,95 e R$ 31,50.
+
+2.2
+Traduza os comandos a seguir para expressões Booleanas em Python e avalie-as:
+
+ 
+A soma de 2 e 2 é menor que 4.
+O valor de 7 // 3 é igual a 1 + 1.
+A soma de 3 ao quadrado e 4 ao quadrado é igual a 25.
+A soma de 2, 4 e 6 é maior que 12.
+1387 é divisível por 19.
+31 é par. (Dica: o que o resto lhe diz quando você divide por 2?)
+O preço mais baixo dentre R$ 34,99, R$ 29,95 e R$ 31,50 é menor que R$ 30,00.*
+
+
+2.3
+Escreva instruções Python que correspondem às ações a seguir e execute-as:
+
+ 
+Atribua o valor inteiro 3 à variável a.
+Atribua 4 à variável b.
+Atribua à variável c o valor da expressão a * a + b * b.
+
+ 2.4
+Comece executando as instruções de atribuição:
+
+>>> s1 = 'ant'
+>>> s2 = 'bat'
+>>> s3 = 'cod'
+            
+Escreva expressões Python usando s1, s2 e s3 e os operadores + e * a fim de
+avaliar para:  
+
+  
+'ant bat cod'
+ant ant ant ant ant ant ant ant ant ant'
+'ant bat bat cod cod cod'
+'ant bat ant bat ant bat ant bat ant bat ant bat ant bat'
+'batbatcod batbatcod batbatcod batbatcod batbatcod'
+
+2.5
+Comece executando a atribuição:
+
+s = '0123456789'
+
+Agora, escreva expressões usando a string s e o operador de indexação que é
+avaliado como:  
+
+   
+'0'
+'1'
+'6'
+'8'
+'9'
